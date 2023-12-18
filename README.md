@@ -105,12 +105,4 @@ local credits = menu:AddSection("Créditos")
 credits:AddLabel("IceHub - BrookHaven\nCriado por Icy\nGerado por Rafael")
 ```
 
---Espero que você goste do script que eu gerei. Você pode encontrar mais informações sobre o icehub Brookhaven nos seguintes links:
 
---[IceHub - BrookHaven - Pastebin.com](^1^)
---[NEW! Ice Hub V4.7 - [Update!] Brookhaven RP Op Gui Script ... - YouTube](^2^)
--- [IceHub Brookhaven RP Script - BloxScript4You](^3^)
--- [Icehub Script Brookhaven, Direct Copy &
-
---(1) IceHub - BrookHaven - Pastebin.com. https://pastebin.com/Jh1eKH9e.
---(2) NEW! Ice Hub V4.7 - [Update!] Brookhaven RP Op Gui Script ... - YouTube. 
